@@ -1,5 +1,5 @@
 import AnimationBackground from "./AnimationBackground";
-import contrax from "../../../Images/contrax.png";
+import contrax from "../../../Images/contrax2.png";
 const MainSection = () => {
   return (
     <div className='relative w-full min-h-screen font-sans selection:bg-purple-500 selection:text-white'>
@@ -44,7 +44,7 @@ const MainSection = () => {
           </div> */}
         </div>
 
-        <div className='hidden md:block w-full max-w-[450px] aspect-square lg:w-[400px] mt-12 lg:mt-0 rounded-3xl overflow-hidden shadow-2xl shadow-purple-500/20 border border-white/10'>
+        <div className=' md:block w-full max-w-[400px] max-h-[300px] aspect-square lg:w-[420px] mt-12 lg:mt-0 rounded-3xl overflow-hidden shadow-2xl shadow-purple-500/20 border border-white/10'>
           <img
             src={contrax}
             alt='Dashboard Preview'
