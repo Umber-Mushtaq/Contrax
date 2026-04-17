@@ -18,7 +18,7 @@ const ProcessSection = () => {
   ];
 
   return (
-    <section className='py-24 px-6 md:px-20'>
+    <section className='py-15 px-6 md:px-20'>
       <div className='max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-12 lg:gap-20'>
         {steps.map((step) => (
           <div key={step.id} className='flex flex-col gap-4'>

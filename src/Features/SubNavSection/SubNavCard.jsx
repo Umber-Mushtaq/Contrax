@@ -14,7 +14,7 @@ const SubNavCard = () => {
   ];
 
   return (
-    <section className='py-20 px-6 flex justify-center'>
+    <section className='py-15 px-6 flex justify-center'>
       {/* The Glass Container */}
       <div className='w-full max-w-5xl border-5 border-white/10 rounded-[2rem] py-10 px-8 md:px-16'>
         <div className='grid grid-cols-2 md:grid-cols-4 gap-8'>

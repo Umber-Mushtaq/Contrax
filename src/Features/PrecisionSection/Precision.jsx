@@ -30,7 +30,7 @@ const PrecisionSection = () => {
   ];
 
   return (
-    <section className=' py-24 px-6 md:px-20'>
+    <section className=' py-15 px-6 md:px-20'>
       <div className='max-w-4xl mx-auto flex flex-col items-center text-center mb-16'>
         <h2 className='text-white text-4xl md:text-5xl font-bold mb-4'>
           Precision Engineering.

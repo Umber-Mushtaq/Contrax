@@ -10,7 +10,7 @@ const ManagementSection = () => {
   ];
 
   return (
-    <section className='py-24 px-6 md:px-20 max-w-7xl mx-auto flex flex-col lg:flex-row items-center gap-16'>
+    <section className=' py-15 px-6 md:px-20 max-w-7xl mx-auto flex flex-col lg:flex-row items-center gap-16'>
       {/* Left Content */}
       <div className='w-full lg:w-1/2 flex flex-col gap-6'>
         <h2 className='text-white text-4xl md:text-5xl font-bold leading-tight'>

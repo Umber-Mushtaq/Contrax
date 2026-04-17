@@ -28,7 +28,6 @@ const FeaturesGrid = () => {
       icon: <IoEyeOutline size={28} className='text-gray-700' />,
     },
   ];
-
   return (
     <section className='py-24 px-6 md:px-20 overflow-hidden'>
       {/* Section Header */}
@@ -37,7 +36,7 @@ const FeaturesGrid = () => {
           Legacy systems are broken.
         </h2>
         {/* The purple accent line */}
-        <div className='w-16 h-1.5 bg-purple-600 rounded-full'></div>
+        <div className='w-30 h-1.5 bg-purple-600 rounded-full'></div>
       </div>
 
       {/* Grid Container */}
